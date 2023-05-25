@@ -12,7 +12,7 @@
     
     body{
     
-    background-image: url("mar-tropical-.avif");
+    background-image: url("vero.jpg");
     
     background-repeat: no-repeat;
     
@@ -26,9 +26,9 @@
     
      
     
-    width: 190px;
-    
-    height: 190px;
+    width: 300px;
+    top: 100px ;
+    height: 250px;
     
     border-radius: 10px;
     
@@ -38,7 +38,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpg");
+    background-image: url("elephant.jpg");
     
     }
     

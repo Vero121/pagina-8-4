@@ -26,17 +26,18 @@
     
      
     
-    width: 300px;
-    top: 100px ;
-    height: 250px;
+    border-radius: 03px;
+    width: 395px;
+    top: 150px ;  
+    height: 358px;
     
-    border-radius: 10px;
+    border-radius: 09px;
     
     background-repeat: no-repeat;
     
      
     
-    left: 180px;
+    left: 30px;
     
     background-image: url("iceland.jpg");
     
@@ -46,7 +47,7 @@
     
      
     
-    height: 230px;
+    height: 400px;
     
      
     

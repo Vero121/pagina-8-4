@@ -17,13 +17,59 @@
     background-repeat: no-repeat;
     
     }
-    .ftecnologia{
+   
+       
+        
     
-        background-image: url("ftecnologia.jpg");
+    .img{
+    
+    position: relative;
+    
+     
+    
+    border-radius: 03px;
+    width: 450px;
+    top: 500px;  
+    height: 350px;
+    
+    border-radius: 09px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 30px;
+    
+    background-image: url("lali.jpg"); 
+    
+   
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 400px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 50px;
+    
+    text-align: justify;
+    
+    color:black;
+   
+    
+     
+    
+    }
+   
         
-        background-repeat: no-repeat;
-        
-        }
+   
     
 .contenido{
 
@@ -38,10 +84,11 @@
      
     
     }
+        
     
      
     
-    .imagentecno{
+    .ftecnologia{
     
      
     
@@ -57,68 +104,463 @@
     
     margin-right:5px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("ftecnologia.jpg");
     
     }
-    
     
     
     .textotecno{
     
     text-align: justify;
     
-    color: azure;
+    color: black;
     
     font-size: 20px;
     
     
     
     }
-    
-    
-    
-    .img{
-    
-    position: relative;
+    .tecnologia{
     
      
     
-    border-radius: 03px;
-    width: 450px;
-    top: 150px ;  
-    height: 350px;
-    
-    border-radius: 09px;
-    
-    background-repeat: no-repeat;
+        position: relative;
     
      
     
-    left: 30px;
-    
-    background-image: url("lali.jpg");
-    
-    }
-    
-    .contenedor{
-    
-     
-    
-    height: 400px;
-    
-     
-    
-    }
-    
-    .texto{
-    
-    font-size: 40px;
-    
-    text-align: justify;
-    
-    color: brown;
+        border-radius: 03px;
+        width: 550px;
+        top: 750px;  
+        height: 350px;
+        
+        border-radius: 09px;
+        
+        background-repeat: no-repeat;
+        
+         
+        
+        left: 580px;
+        
+        background-image: url("RxgL.gif"); 
+        
+       
+        
+        }
+        .imagen{
     
      
     
-    }
+            position: relative;
+        
+         
+        
+            border-radius: 03px;
+            width: 550px;
+            top: 6px;  
+            height: 250px;
+            
+            border-radius: 09px;
+            
+            background-repeat: no-repeat;
+            
+             
+            
+            left: 380px;
+            
+            background-image: url("imagen.png"); 
+            
+           
+            
+            }
+
+        
     
+       
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 8px;
+            
+             
+            
+            }
+                
+            
+             
+            
+            .hbiologia{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("4b4795a58748405111bd7566b709eb52.jpg");
+            
+            }
+            
+            
+            .textobilogia1{
+            
+            text-align: justify;
+            
+            color: black;
+            
+            font-size: 15px; 
+            
+            
+            
+            }
+            .imagenbiologia{
+            
+             
+            
+                position: relative;
+            
+             
+            
+                border-radius: 01px;
+                width: 400px;
+                top: 150px;  
+                height: 350px;
+                
+                border-radius: 09px;
+                
+                background-repeat: no-repeat;
+                
+                 
+                
+                left:480px;
+                
+                background-image: url("imagenbiologia.jpg"); 
+                
+               
+                
+                } 
+                .textobilogia2{
+            
+                    text-align: justify;
+                    
+                    color: black;
+                    
+                    font-size: 15px;
+                    
+                    
+                    
+                    }
+                .imabiologia{
+            
+             
+            
+                    position: relative;
+                
+                 
+                
+                    border-radius: 03px;
+                    width: 400px;
+                    top: 350px;  
+                    height: 300px;
+                    
+                    border-radius: 05px;
+                    
+                    background-repeat: no-repeat;
+                    
+                     
+                    
+                    left: 480px;
+                    
+                    background-image: url("biologia...jpg"); 
+                    
+                   
+                    
+                    }       .textobilogia3{
+            
+                        text-align: justify;
+                        
+                        color: black;
+                        
+                        font-size: 15px;
+                        
+                        
+                        
+                        }
+             .biologia{
+            
+             
+            
+             position: relative;
+                    
+                     
+                    
+                        border-radius: 03px;
+                        width: 400px;
+                        top: 570px;  
+                        height: 350px;
+                        
+                        border-radius: 09px;
+                        
+                 background-repeat: no-repeat;
+                        
+                         
+                        
+                 left: 540px;
+                        
+                 background-image: url("biologia4.jpg"); 
+                        
+                       
+                        
+                        }     
+                .textobilogia4{
+            
+                            
+                text-align: justify;
+                            
+                 color: black;
+                            
+                 font-size: 20px;
+                            
+                            
+                            
+                            }  
+                .biologiaa{
+            
+             
+            
+                position: relative;
+                        
+                         
+                        
+                 border-radius: 03px;
+                 width: 450px;
+                 top: 560px;  
+                height: 350px;
+                            
+                 border-radius: 09px;
+                            
+                 background-repeat: no-repeat;
+                            
+                             
+                            
+                left: 480px;
+                            
+                 background-image: url("biologia5.jpg"); 
+                            
+                           
+                            
+                            }   
+                .textobilogia5{
+            
+                 text-align: justify;
+                                
+                  color: black;
+                                
+                  font-size: 20px;
+                                
+                                
+                                
+                                }    
+                .bioologia{
+            
+             
+            
+                 position: relative;
+                            
+                             
+                            
+                border-radius: 03px;
+                width: 450px;
+                 top: 680px;  
+                 height: 350px;
+                                
+                border-radius: 9px;
+                                
+                 background-repeat: no-repeat;
+                                
+                                 
+                                
+                left: 480px;
+                                
+                 background-image: url("biologia6.jpg"); 
+                                
+                               
+                                
+                                }  
+                .textobilogia6{
+            
+                text-align: justify;
+                                    
+                color: black;
+                                    
+                font-size: 100px;
+                                    
+                                    
+                                    
+                                    } 
+                 .biiologia{
+            
+             
+            
+                  position: relative;
+                                
+                                 
+                                
+                 border-radius: 03px;
+                 width: 450px;
+                 top: 750px;  
+                 height: 350px;
+                                    
+                 border-radius: 09px;
+                                    
+                 background-repeat: no-repeat;
+                                    
+                                     
+                                    
+                 left: 480px;
+                                    
+                 background-image: url("biologia7.jpg"); 
+                                    
+                                   
+                                    
+                                    }       
+                .imgetica{
+                
+                   position: relative;
+                                
+                                 
+                                
+                 border-radius: 03px;
+                 width: 450px;
+                 top: 750px;  
+                 height: 350px;
+                                    
+                 border-radius: 09px;
+                                    
+                 background-repeat: no-repeat;
+                                    
+                                     
+                                    
+                 left: 480px;
+                                    
+                 background-image: url("Diagrama\ en\ blanco.pdf"); 
+                                    
+
+                    } 
+                    .contenido{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 8px;
+                        
+                         
+                        
+                        }
+                            
+                        
+                         
+                        
+                        .matematicas{
+                        
+                            position: relative;
+                                
+                                 
+                                
+                            border-radius: 03px;
+                            width: 450px;
+                            top: 750px;  
+                            height: 350px;
+                                               
+                            border-radius: 09px;
+                                               
+                            background-repeat: no-repeat;
+                                               
+                                                
+                                               
+                            left: 480px;
+                                               
+                            
+                        
+                        
+                        
+                        }
+                        
+                        
+                        .textomate{
+                        
+                        text-align: justify;
+                        
+                        color: black;
+                        
+                        font-size: 15px; 
+                        
+                    } 
+                    .contenido{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 8px;
+                        
+                         
+                        
+                        }
+                            
+                        
+                         
+                        
+                        .imagsociales{
+                        
+                            position: relative;
+                                
+                                 
+                                
+                            border-radius: 03px;
+                            width: 450px;
+                            top: 750px;  
+                            height: 350px;
+                                               
+                            border-radius: 09px;
+                                               
+                            background-repeat: no-repeat;
+                                               
+                                                
+                                               
+                            left: 480px;
+                                               
+                            
+                        
+                        
+                        
+                        }
+                        
+                        
+                        .textomate{
+                        
+                        text-align: justify;
+                        
+                        color: black;
+                        
+                        font-size: 15px; 
+                        
+                    } 
+                    
